@@ -1,0 +1,8 @@
+{
+	"studentName": "Arun",
+	"studentId":"001", 
+	"phone": [
+				{"home":"22323001"},
+				{"mobile": "434535555"} 
+			]
+}
